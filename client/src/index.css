@@ -1,0 +1,24 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+html,
+body,
+:root {
+  height: 100%;
+}
+a{
+  text-decoration: none;
+}
+
+h1{
+  font-size: x-large
+}
+
+.bg-navbar{
+  background-color: rgb(182, 177, 177, 0.8);
+}
+
+.enlace{
+  color: black;
+  font-weight: 600;
+  
+}
